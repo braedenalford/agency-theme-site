@@ -1,9 +1,9 @@
 ---
 title: Common Trees around Fitzroy Gardens
-subtitle: Website Design
+subtitle: Shiny R Visual
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2021-04-01
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
