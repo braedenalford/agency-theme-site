@@ -9,7 +9,7 @@ thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2021
 project-type : University Assessment
-technology: R Shiny + Leaflet
+technology: R, R Shiny, Leaflet
 description: Mini project for University looking briefly into a snapshot on plant data at the Fitzroy Gardens. This was my first introduction into using R Shiny as well as Leaflet.
 
 ---
