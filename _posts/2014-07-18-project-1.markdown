@@ -14,7 +14,5 @@ description: Mini project for University looking briefly into a snapshot on plan
 
 ---
 
-<div class="video-container">
-    <iframe src="https://braedenalford.shinyapps.io/fitzroygardens/" height="1000" width="1050" allowfullscreen="" frameborder="0">
+<iframe src="https://braedenalford.shinyapps.io/fitzroygardens/" height="1000" width="1050" allowfullscreen="" frameborder="0">
     </iframe>
-</div>
